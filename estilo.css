@@ -16,7 +16,7 @@ header{
 
 }
 #intre{
-    text-align: center;
+    text-align:left;
     color: rgb(68, 68, 68);
-    
+    box-shadow: 50px;
 }
