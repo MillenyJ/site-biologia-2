@@ -30,3 +30,9 @@ header{
     padding-top: 50px;
     max-width: 700px;
 }
+
+footer{
+    background-color: rgb(62, 107, 116);
+    text-align: center;
+    color: aliceblue;
+}
