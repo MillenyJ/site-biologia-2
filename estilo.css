@@ -5,6 +5,7 @@ body {
 
 header{
     background-color: rgb(62, 107, 116);
+    box-shadow: 0px 5px 5px rgb(139, 139, 139);
     display: flexbox;
     
 }
@@ -19,4 +20,13 @@ header{
     text-align:left;
     color: rgb(68, 68, 68);
     box-shadow: 50px;
+}
+
+#imgt{
+    max-width: 600px;
+}
+
+#foto1{
+    padding-top: 50px;
+    max-width: 700px;
 }
